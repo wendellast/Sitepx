@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, red, blue, rgb(245, 245, 12));
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;    
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(168, 54, 54, 0.61);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1{
+    color: aqua;
+    text-align: center;
+    text-shadow: 1px 2px 3px rgba(233, 97, 97, 0.61);
+}
+h2{
+    color: rgb(33, 170, 170);
+
+}
+
+p{
+    color: black;
+}
+
+h3{
+    color: rgb(33, 170, 170);
+}
+
+div#meme{
+    display: block;
+    margin: auto;
+    
+
+}
+div#gif{
+    display: block;
+    
+}
+
+
